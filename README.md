@@ -1,8 +1,5 @@
-# craigslist
+# Craigslist Scraper
 Ironhack Hackaton - Craigslist
-
-# Customer Portfolio Analysis
-## Project 4 | Data Analysis Bootcamp - Ironhack
 
 ## Purpose
 

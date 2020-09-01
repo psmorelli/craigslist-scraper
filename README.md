@@ -13,7 +13,7 @@ Ironhack Hackaton - Craigslist
     |    |_ craigslist.json
     |        
     utils
-    |    |_ craigslist-mvp.py
+    |    |_ craigslist.py
     |
     craigslist.ipynb
     README.md
